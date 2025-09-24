@@ -12,20 +12,21 @@
 - Değerlendirme: Accuracy/Loss grafikleri, Classification Report, Confusion Matrix
 - Grad-CAM
 
+
 ### Eğitim Grafiği
-![Accuracy & Loss](plots/acc_loss.png)
+![Accuracy & Loss](acc_loss.png)
 
 ### Accuracy Grafiği
-![Accuracy](plots/acc.png)
+![Accuracy](acc.png)
 
 ### Loss Grafiği
-![Loss](plots/loss.png)
+![Loss](loss.png)
 
 ### Confusion Matrix
-![Confusion Matrix](plots/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### Grad-CAM (opsiyonel)
-![Grad-CAM](plots/gradcam_grid.png)
+![Grad-CAM](gradcam_grid.png)
 
 ### Classification Report (metin)
-👉 `plots/classification_report.txt` dosyasına bakınız.
+👉 [classification_report.txt](classification_report.txt) dosyasına bakınız.
